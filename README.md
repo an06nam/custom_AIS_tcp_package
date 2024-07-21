@@ -1,2 +1,5 @@
-# custom_AIS_tcp_package
-a custom TCP package for AIS design for autonomous communication
+# CUSTOM TCP PACKAGE FOR AUTONOMOUS SHIP
+this is just a side project for me as a marine engineer.
+
+### MOTIVATIONs:
+I fucked 🤪 my final project because I suck at writing frontend, so why not just write to be a litte bit better 😃.
